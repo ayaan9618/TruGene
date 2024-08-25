@@ -24,11 +24,11 @@ TruGene is a powerful Python-based tool designed to compare a DNA sequence to a 
    - Create a CSV file named `data.csv` containing the database of STR counts, with the first row holding the STR names and subsequent rows representing profiles with names and STR counts.
    - Create a text file named `sequence.txt` containing the DNA sequence you want to analyze.
 3. **Run TruGene:**
-   Open a terminal or command prompt and navigate to the directory containing the script (`trugene.py`), the database file (`data.csv`), and the DNA sequence file (`sequence.txt`).
+   Open a terminal or command prompt and navigate to the directory containing the script (`dna.py`), the database file (`data.csv`), and the DNA sequence file (`sequence.txt`).
    Run TruGene using the following command:
 
    ```bash
-   python trugene.py data.csv sequence.txt
+   python dna.py data.csv sequence.txt
    ```
 
    **Example Database (data.csv):**
