@@ -1,13 +1,13 @@
 
-**TruGene**
+###TruGene
 
 **A Robust DNA Analysis Tool**
 
-**Introduction:**
+###Introduction:
 
 TruGene is a powerful Python-based tool designed to compare a DNA sequence to a database of Short Tandem Repeat (STR) counts. It accurately identifies potential matches by finding the longest consecutive occurrences of STRs in the DNA sequence and checking for alignment with the database profiles.
 
-**Features:**
+###Features:
 
 - Reads a database of STR counts in CSV format.
 - Reads a DNA sequence from a text file.
@@ -58,12 +58,10 @@ TruGene is a powerful Python-based tool designed to compare a DNA sequence to a 
 - For more complex scenarios, consider extending the code to handle additional features or optimizations.
 - Error handling can be incorporated to provide informative messages and gracefully handle unexpected input.
 
-**License:**
+###License:
 
 TruGene is provided under the [MIT License](https://choosealicense.com/licenses/mit/).
 
 
 
-**Contributing:**
-
-Contributions to TruGene are welcome! Please feel free to fork the repository, make changes, and submit a pull request.
+.
