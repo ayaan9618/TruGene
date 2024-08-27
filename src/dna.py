@@ -21,7 +21,7 @@ def main():
     with open(sys.argv[2])as file:
         sequence = file.read()
 
-    # TODO: Find longest match of each STR in DNA sequence
+    #  Find longest match of each STR in DNA sequence
     for i in range(1, len(database[0])):
         # Each iteration save the STR in a variable.
         subsequence = "".join(x for x in database[0][i])
