@@ -11,7 +11,7 @@ def main():
     if len(sys.argv) != 3:
         print("Usage: python dna.py data.csv sequence.txt")
 
-    # TODO: Read database file into a variable
+    #  Read database file into a variable
     with open(sys.argv[1]) as file:
         reader = csv.reader(file)
         for row in reader:
