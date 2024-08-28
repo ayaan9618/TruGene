@@ -88,3 +88,6 @@ def longest_match(sequence, subsequence):
 
 
 main()
+
+
+#plz note databases and sequences exist in correct floder
