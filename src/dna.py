@@ -87,7 +87,7 @@ def longest_match(sequence, subsequence):
     return longest_run
 
 
-main()
+main() #calling main
 
 
 #plz note databases and sequences exist in correct folder before running 
