@@ -34,7 +34,7 @@ def main():
     # Convert the results of the STRs to a list containing only the values.
     sequence_dna = list(results.values())
 
-    # TODO: Check database for matching profiles
+    #  Check database for matching profiles
     for person in database[1:][0:]:
         # Save the STR values to a list.
         person_dna = [int(i) for i in person[1:]]
