@@ -90,4 +90,4 @@ def longest_match(sequence, subsequence):
 main()
 
 
-#plz note databases and sequences exist in correct floder
+#plz note databases and sequences exist in correct folder before running 
